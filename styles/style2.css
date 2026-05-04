@@ -1,0 +1,27 @@
+.para-1 {
+    background-color: aqua;
+}
+
+.section-1,
+.section-3 {
+    width: 100%;
+    height: 200px;
+    background-color: antiquewhite;
+}
+
+.section-2 {
+    width: 100%;
+    height: 400px;
+    /* background-color: antiquewhite; */
+    background-image: url("../images/bg.jpg");
+    /* background-repeat: no-repeat; */
+    /* background-position: bottom right; */
+    /* background-position: 30% 20%; */
+    /* background-position: 300px 300px; */
+    /* background-position-x: 300px; */
+    /* background-position-y: 300px; */
+    /* background-size: 300px; */
+    background-attachment: fixed;
+    /* shorthand */
+    /* background: url("../images/bg.jpg") no-repeat 300px 200px / 200px 200px fixed; */
+}
